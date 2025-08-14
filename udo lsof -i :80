@@ -1,0 +1,383 @@
+Jun 29 10:10:08 LTIN461060 systemd[1]: Starting nginx.service - nginx - high performance web server...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit nginx.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit nginx.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 129.[0m
+Jun 29 10:10:07 LTIN461060 systemd[1]: Started nginx.service - nginx - high performance web server.
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit nginx.service has finished successfully[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit nginx.service has finished successfully.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 129.[0m
+Jun 29 10:19:21 LTIN461060 systemd[1]: Stopping nginx.service - nginx - high performance web server...
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit nginx.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit nginx.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 955.[0m
+Jun 29 10:19:21 LTIN461060 systemd[1]: nginx.service: Deactivated successfully.
+[0;38;5;245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit nginx.service has successfully entered the 'dead' state.[0m
+Jun 29 10:19:21 LTIN461060 systemd[1]: Stopped nginx.service - nginx - high performance web server.
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit nginx.service has finished[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit nginx.service has finished.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 955 and the job result is done.[0m
+Jun 29 10:19:21 LTIN461060 systemd[1]: Starting nginx.service - nginx - high performance web server...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit nginx.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit nginx.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 955.[0m
+Jun 29 10:19:21 LTIN461060 systemd[1]: Started nginx.service - nginx - high performance web server.
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit nginx.service has finished successfully[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit nginx.service has finished successfully.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 955.[0m
+Jun 29 10:23:18 LTIN461060 systemd[1]: Stopping nginx.service - nginx - high performance web server...
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit nginx.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit nginx.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1027.[0m
+Jun 29 10:23:18 LTIN461060 systemd[1]: nginx.service: Deactivated successfully.
+[0;38;5;245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit nginx.service has successfully entered the 'dead' state.[0m
+Jun 29 10:23:18 LTIN461060 systemd[1]: Stopped nginx.service - nginx - high performance web server.
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit nginx.service has finished[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit nginx.service has finished.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1027 and the job result is done.[0m
+Jun 29 10:23:18 LTIN461060 systemd[1]: Starting nginx.service - nginx - high performance web server...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit nginx.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit nginx.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1027.[0m
+Jun 29 10:23:18 LTIN461060 systemd[1]: Started nginx.service - nginx - high performance web server.
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit nginx.service has finished successfully[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit nginx.service has finished successfully.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1027.[0m
+Jun 29 10:24:58 LTIN461060 systemd[1]: Stopping nginx.service - nginx - high performance web server...
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit nginx.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit nginx.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1106.[0m
+Jun 29 10:24:59 LTIN461060 systemd[1]: nginx.service: Deactivated successfully.
+[0;38;5;245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit nginx.service has successfully entered the 'dead' state.[0m
+Jun 29 10:24:59 LTIN461060 systemd[1]: Stopped nginx.service - nginx - high performance web server.
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit nginx.service has finished[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit nginx.service has finished.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1106 and the job result is done.[0m
+Jun 29 10:24:59 LTIN461060 systemd[1]: Starting nginx.service - nginx - high performance web server...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit nginx.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit nginx.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1106.[0m
+Jun 29 10:24:59 LTIN461060 systemd[1]: Started nginx.service - nginx - high performance web server.
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit nginx.service has finished successfully[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit nginx.service has finished successfully.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1106.[0m
+Jun 29 10:26:24 LTIN461060 systemd[1]: Stopping nginx.service - nginx - high performance web server...
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit nginx.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit nginx.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1178.[0m
+Jun 29 10:26:24 LTIN461060 systemd[1]: nginx.service: Deactivated successfully.
+[0;38;5;245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit nginx.service has successfully entered the 'dead' state.[0m
+Jun 29 10:26:24 LTIN461060 systemd[1]: Stopped nginx.service - nginx - high performance web server.
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit nginx.service has finished[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit nginx.service has finished.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1178 and the job result is done.[0m
+Jun 29 10:26:24 LTIN461060 systemd[1]: Starting nginx.service - nginx - high performance web server...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit nginx.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit nginx.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1178.[0m
+Jun 29 10:26:24 LTIN461060 systemd[1]: Started nginx.service - nginx - high performance web server.
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit nginx.service has finished successfully[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit nginx.service has finished successfully.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1178.[0m
+Jun 29 10:29:30 LTIN461060 systemd[1]: Stopping nginx.service - nginx - high performance web server...
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit nginx.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit nginx.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1250.[0m
+Jun 29 10:29:30 LTIN461060 systemd[1]: nginx.service: Deactivated successfully.
+[0;38;5;245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit nginx.service has successfully entered the 'dead' state.[0m
+Jun 29 10:29:30 LTIN461060 systemd[1]: Stopped nginx.service - nginx - high performance web server.
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit nginx.service has finished[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit nginx.service has finished.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1250 and the job result is done.[0m
+Jun 29 10:29:30 LTIN461060 systemd[1]: Starting nginx.service - nginx - high performance web server...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit nginx.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit nginx.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1250.[0m
+Jun 29 10:29:30 LTIN461060 systemd[1]: Started nginx.service - nginx - high performance web server.
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit nginx.service has finished successfully[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit nginx.service has finished successfully.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1250.[0m
+Jun 29 10:38:39 LTIN461060 systemd[1]: Stopping nginx.service - nginx - high performance web server...
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit nginx.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit nginx.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1393.[0m
+Jun 29 10:38:39 LTIN461060 systemd[1]: nginx.service: Deactivated successfully.
+[0;38;5;245m░░ [0m[0;32mSubject: Unit succeeded[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit nginx.service has successfully entered the 'dead' state.[0m
+Jun 29 10:38:39 LTIN461060 systemd[1]: Stopped nginx.service - nginx - high performance web server.
+[0;38;5;245m░░ [0m[0;32mSubject: A stop job for unit nginx.service has finished[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA stop job for unit nginx.service has finished.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1393 and the job result is done.[0m
+Jun 29 10:38:39 LTIN461060 systemd[1]: Starting nginx.service - nginx - high performance web server...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit nginx.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit nginx.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1393.[0m
+Jun 29 10:38:39 LTIN461060 nginx[11492]: nginx: [emerg] open() "/etc/nginx/sites-enabled/mydomain.local" failed (2: No such file or directory) in /etc/nginx/nginx.conf:31
+Jun 29 10:38:39 LTIN461060 systemd[1]: [0;1;39m[0;1;31m[0;1;39mnginx.service: Control process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit nginx.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Jun 29 10:38:39 LTIN461060 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mnginx.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit nginx.service has entered the 'failed' state with result 'exit-code'.[0m
+Jun 29 10:38:39 LTIN461060 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start nginx.service - nginx - high performance web server.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit nginx.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit nginx.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1393 and the job result is failed.[0m
+Jun 29 10:41:36 LTIN461060 systemd[1]: Starting nginx.service - nginx - high performance web server...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit nginx.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit nginx.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1536.[0m
+Jun 29 10:41:36 LTIN461060 nginx[12301]: nginx: [emerg] open() "/etc/nginx/sites-enabled/mydomain.local" failed (2: No such file or directory) in /etc/nginx/nginx.conf:31
+Jun 29 10:41:36 LTIN461060 systemd[1]: [0;1;39m[0;1;31m[0;1;39mnginx.service: Control process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit nginx.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Jun 29 10:41:36 LTIN461060 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mnginx.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit nginx.service has entered the 'failed' state with result 'exit-code'.[0m
+Jun 29 10:41:36 LTIN461060 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start nginx.service - nginx - high performance web server.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit nginx.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit nginx.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1536 and the job result is failed.[0m
+Jun 29 10:42:13 LTIN461060 systemd[1]: Starting nginx.service - nginx - high performance web server...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit nginx.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit nginx.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1608.[0m
+Jun 29 10:42:13 LTIN461060 nginx[12543]: nginx: [emerg] open() "/etc/nginx/sites-enabled/mydomain.local" failed (2: No such file or directory) in /etc/nginx/nginx.conf:31
+Jun 29 10:42:13 LTIN461060 systemd[1]: [0;1;39m[0;1;31m[0;1;39mnginx.service: Control process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit nginx.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Jun 29 10:42:13 LTIN461060 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mnginx.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit nginx.service has entered the 'failed' state with result 'exit-code'.[0m
+Jun 29 10:42:13 LTIN461060 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start nginx.service - nginx - high performance web server.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit nginx.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit nginx.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1608 and the job result is failed.[0m
+Jun 29 10:42:18 LTIN461060 systemd[1]: Starting nginx.service - nginx - high performance web server...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit nginx.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit nginx.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1680.[0m
+Jun 29 10:42:18 LTIN461060 nginx[12613]: nginx: [emerg] open() "/etc/nginx/sites-enabled/mydomain.local" failed (2: No such file or directory) in /etc/nginx/nginx.conf:31
+Jun 29 10:42:18 LTIN461060 systemd[1]: [0;1;39m[0;1;31m[0;1;39mnginx.service: Control process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit nginx.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Jun 29 10:42:18 LTIN461060 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mnginx.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit nginx.service has entered the 'failed' state with result 'exit-code'.[0m
+Jun 29 10:42:18 LTIN461060 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start nginx.service - nginx - high performance web server.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit nginx.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit nginx.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1680 and the job result is failed.[0m
+Jun 29 10:42:55 LTIN461060 systemd[1]: Starting nginx.service - nginx - high performance web server...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit nginx.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit nginx.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1752.[0m
+Jun 29 10:42:55 LTIN461060 nginx[12877]: nginx: [emerg] open() "/etc/nginx/sites-enabled/mydomain.local" failed (2: No such file or directory) in /etc/nginx/nginx.conf:31
+Jun 29 10:42:55 LTIN461060 systemd[1]: [0;1;39m[0;1;31m[0;1;39mnginx.service: Control process exited, code=exited, status=1/FAILURE[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit nginx.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 1.[0m
+Jun 29 10:42:55 LTIN461060 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mnginx.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit nginx.service has entered the 'failed' state with result 'exit-code'.[0m
+Jun 29 10:42:55 LTIN461060 systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start nginx.service - nginx - high performance web server.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit nginx.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit nginx.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1752 and the job result is failed.[0m

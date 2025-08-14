@@ -1,0 +1,1 @@
+"Fatal Error: 'Cannot declare class Nishu\\CustomGraphQl\\Model\\Resolver\\Message, because the name is already in use' in '\/var\/www\/magento2\/app\/code\/NishuCustom\/CustomGraphQl\/Model\/Resolver\/Message.php' on line 11"
