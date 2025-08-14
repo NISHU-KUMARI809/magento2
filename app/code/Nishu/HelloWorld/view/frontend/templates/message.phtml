@@ -1,0 +1,8 @@
+<?php if ($block->isLoggedIn()): ?>
+    <h2>Welcome, <?= $block->escapeHtml($block->getCustomerName()) ?>!</h2>
+    <!-- escapeHtml() ensures that the name is safely displayed (prevents XSS attacks). -->
+    <p>You are logged in.</p>
+<?php else: ?>
+    <h2>Welcome, Guest!</h2>
+    <p>Please <a href="<?= $block->getUrl('customer/account/login') ?>">login</a> to access more features.</p>
+<?php endif; ?>

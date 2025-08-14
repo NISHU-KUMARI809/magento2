@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+    <system>
+        <section id="contactform" translate="label" sortOrder="300" showInDefault="1" showInWebsite="1" showInStore="1">
+            <label>Contact Form</label>
+            <tab>general</tab> 
+            <resource>Emp2407418_Contactform::config</resource>
+ 
+            <group id="settings" translate="label" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
+                <label>Settings</label>
+ 
+                <field id="admin_email" translate="label" type="text" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Admin Email</label>
+                </field>
+ 
+            </group>
+        </section>
+    </system>
+</config>
+ 

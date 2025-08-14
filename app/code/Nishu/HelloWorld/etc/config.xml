@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Config/etc/config.xsd">
+    <default>
+        <helloworld>
+            <general>
+                <enable>1</enable>
+                <display_text>Hello from Nishu!</display_text>
+            </general>
+        </helloworld>
+        <carriers>
+<helloworld>
+<active>1</active>
+<title>My custom shipping</title>
+<name>Shipping</name>
+<price>10.00</price>
+<type>I</type>
+<sallowspecific>0</sallowspecific>
+<model>Nishu\HelloWorld\Model\Carrier\Shipping</model>
+</helloworld>
+</carriers>
+        <payment>
+             <custompayment> 
+                <payment_action>capture</payment_action>
+                <model>Nishu\HelloWorld\Model\Payment\PaymentMethod</model>
+                <active>1</active>
+                <title>Custom Payment</title>
+                <order_status>processing</order_status>
+            </custompayment>
+        </payment>
+    </default>
+</config>
+ 

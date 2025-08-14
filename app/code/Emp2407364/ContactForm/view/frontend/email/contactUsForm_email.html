@@ -1,0 +1,23 @@
+<!--@subject {{trans "Customer Contact  Submission"}} @-->
+<p><strong>You've received a new message from a customer:</strong></p>
+<table style="width: 100%; border-collapse: collapse;">
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ccc;"><strong>Customer ID:</strong></td>
+        <td style="padding: 8px; border: 1px solid #ccc;">{{var customer_id}}</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ccc;"><strong>Email:</strong></td>
+        <td style="padding: 8px; border: 1px solid #ccc;">{{var customer_email}}</td>
+    </tr>
+    <tr>
+        <td style="padding: 8px; border: 1px solid #ccc;"><strong>Message:</strong></td>
+        <td style="padding: 8px; border: 1px solid #ccc;">{{var message}}</td>
+    </tr>
+</table>
+<p>Thank you for your attention.</p>
+<p>Best regards,<br/>Your Magento Store</p>
+<!--@var customer_id int @-->
+<!--@var customer_email string @-->
+<!--@var message string @-->
+</body>
+</html>

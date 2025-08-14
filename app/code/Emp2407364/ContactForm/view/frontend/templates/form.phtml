@@ -1,0 +1,85 @@
+<?php
+$emailValue = $block->getCustomerEmail();
+$customerId = $block->getCustomerId();
+?>
+
+<form action="<?= $block->getUrl('contactform/index/FormSubmit') ?>" method="post" class="custom-form">
+    <div class="form-title">Contact Us</div><hr>
+
+    <div class="form-group">
+        <label for="customer_email">Customer Email:</label>
+        <input type="email" name="customer_email" id="customer_email" value="<?= $emailValue ?>" required readonly>
+        <input type="hidden" name="customer_id" value="<?= $customerId ?>"/>
+    </div>
+
+    <div class="form-group">
+        <label for="message">Message</label>
+        <textarea name="message" id="message" rows="6" required minlength="20" placeholder="Type your message here..."></textarea>
+    </div>
+
+    <div class="form-group">
+        <button type="submit">Submit</button>
+    </div>
+</form>
+
+<style>
+.custom-form {
+    width: 100%;
+    max-width: 500px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f5faff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+}
+
+.form-title {
+    font-size: 22px;
+    font-weight: bold;
+    color: #2471a3;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+    font-size: 14px;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #bbb;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.form-group textarea {
+    height: 100px;
+    resize: vertical;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2e86c1;
+}
+
+</style>

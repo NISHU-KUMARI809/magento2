@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<listing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Ui:etc/ui_configuration.xsd">
+ 
+    <dataSource name="contact_form_data_source">
+        <argument name="dataProvider" xsi:type="configurableObject">
+            <argument name="class" xsi:type="string">Nishu\HelloWorld\Ui\Component\DataProvider</argument>
+            <argument name="name" xsi:type="string">contact_form_data_source</argument>
+            <argument name="primaryFieldName" xsi:type="string">id</argument>
+            <argument name="requestFieldName" xsi:type="string">id</argument>
+        </argument>
+    </dataSource>
+ 
+    <columns name="contact_form_columns">
+        <column name="id">
+            <settings>
+                <label>ID</label>
+                <sortable>true</sortable>
+                <filter>text</filter>
+            </settings>
+        </column>
+        <column name="name">
+            <settings>
+                <label>Name</label>
+                <filter>text</filter>
+            </settings>
+        </column>
+        <column name="email">
+            <settings>
+                <label>Email</label>
+                <filter>text</filter>
+            </settings>
+        </column>
+        <column name="message">
+            <settings>
+                <label>Message</label>
+                <filter>text</filter>
+            </settings>
+        </column>
+        <column name="created_at">
+            <settings>
+                <label>Created At</label>
+                <filter>dateRange</filter>
+            </settings>
+        </column>
+    </columns>
+ 
+    <listingToolbar name="listing_top">
+        <paging/>
+        <filters/>
+        <columnsControls/>
+        <bookmark/>
+    </listingToolbar>
+</listing>
+ 

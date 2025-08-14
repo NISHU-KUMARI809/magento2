@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Setup/Declaration/Schema/etc/schema.xsd">
+<table name="Custom_table" resource="default" engine="innodb" comment="Custom Contact Form Table">
+<column name="customer_id" xsi:type="int" nullable="false" comment="Magento Customer ID"/>
+<column name="customer_email" xsi:type="varchar" length="255" nullable="false" comment="Customer Email"/>
+<column name="message" xsi:type="text" nullable="false" comment="Message"/>
+<column name="created_at" xsi:type="timestamp" on_update="false" nullable="false" default="CURRENT_TIMESTAMP" comment="Created At"/>
+</table>
+</schema>

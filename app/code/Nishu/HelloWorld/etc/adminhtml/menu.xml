@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Nishu_HelloWorld::cusom_subtab"
+             title="Customer Sub Tab"
+             module="Nishu_HelloWorld"
+             sortOrder="20"
+             parent="Magento_Customer::customer"
+             action="admin/system_store/index"
+             resource="Magento_Backend::content"/>
+    </menu>
+</config>

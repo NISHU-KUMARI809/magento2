@@ -1,0 +1,4 @@
+type Query {
+  helloWorld: String @resolver(class: "NishuCustom\\CustomGraphQl\\Model\\Resolver\\HelloWorld")
+  customMessage: String @resolver(class: "NishuCustom\\CustomGraphQl\\Model\\Resolver\\Message")
+}
